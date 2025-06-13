@@ -7,6 +7,7 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -26,4 +27,8 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->

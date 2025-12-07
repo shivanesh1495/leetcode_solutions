@@ -39,6 +39,7 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [2405-optimal-partition-of-string](https://github.com/shivanesh1495/leetcode_solutions/tree/master/2405-optimal-partition-of-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,12 +51,14 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0001-two-sum) |
+| [2405-optimal-partition-of-string](https://github.com/shivanesh1495/leetcode_solutions/tree/master/2405-optimal-partition-of-string) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2405-optimal-partition-of-string](https://github.com/shivanesh1495/leetcode_solutions/tree/master/2405-optimal-partition-of-string) |
 ## Number Theory
 |  |
 | ------- |

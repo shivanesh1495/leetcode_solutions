@@ -7,6 +7,7 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0045-jump-game-ii) |
@@ -43,6 +44,7 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
@@ -72,4 +74,8 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1492-the-kth-factor-of-n) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

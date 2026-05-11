@@ -27,6 +27,7 @@ This repo has my solutions for leetcode problems
 | [0125-valid-palindrome](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +43,7 @@ This repo has my solutions for leetcode problems
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 | [2405-optimal-partition-of-string](https://github.com/shivanesh1495/leetcode_solutions/tree/master/2405-optimal-partition-of-string) |
 ## Dynamic Programming
 |  |

@@ -36,11 +36,13 @@ This repo has my solutions for leetcode problems
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0189-rotate-array) |
 | [1492-the-kth-factor-of-n](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1492-the-kth-factor-of-n) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
@@ -57,6 +59,7 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [2405-optimal-partition-of-string](https://github.com/shivanesh1495/leetcode_solutions/tree/master/2405-optimal-partition-of-string) |
 ## Greedy
 |  |

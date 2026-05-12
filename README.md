@@ -18,6 +18,7 @@ This repo has my solutions for leetcode problems
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [2239-find-closest-number-to-zero](https://github.com/shivanesh1495/leetcode_solutions/tree/master/2239-find-closest-number-to-zero) |
 ## Two Pointers
 |  |
@@ -79,4 +80,8 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

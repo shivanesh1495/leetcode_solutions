@@ -11,6 +11,7 @@ This repo has my solutions for leetcode problems
 | [0015-3sum](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -42,6 +43,7 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0189-rotate-array) |
 | [1492-the-kth-factor-of-n](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1492-the-kth-factor-of-n) |
 ## String
@@ -86,4 +88,8 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

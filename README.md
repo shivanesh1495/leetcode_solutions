@@ -18,6 +18,7 @@ This repo has my solutions for leetcode problems
 | [0088-merge-sorted-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
@@ -31,6 +32,7 @@ This repo has my solutions for leetcode problems
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0392-is-subsequence) |
@@ -97,4 +99,8 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->

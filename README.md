@@ -54,6 +54,7 @@ This repo has my solutions for leetcode problems
 | [0013-roman-to-integer](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1492-the-kth-factor-of-n) |
 ## String
 |  |
@@ -73,6 +74,7 @@ This repo has my solutions for leetcode problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,4 +117,12 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0682-baseball-game) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

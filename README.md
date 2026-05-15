@@ -25,6 +25,7 @@ This repo has my solutions for leetcode problems
 | [0228-summary-ranges](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2239-find-closest-number-to-zero](https://github.com/shivanesh1495/leetcode_solutions/tree/master/2239-find-closest-number-to-zero) |
 ## Two Pointers
@@ -118,6 +119,7 @@ This repo has my solutions for leetcode problems
 | [0020-valid-parentheses](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
@@ -130,4 +132,8 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

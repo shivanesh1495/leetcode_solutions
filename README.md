@@ -118,6 +118,7 @@ This repo has my solutions for leetcode problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Simulation
@@ -136,4 +137,8 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

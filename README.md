@@ -132,6 +132,7 @@ This repo has my solutions for leetcode problems
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -150,4 +151,5 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

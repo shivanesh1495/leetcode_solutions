@@ -17,6 +17,7 @@ This repo has my solutions for leetcode problems
 | [0048-rotate-image](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -115,10 +116,12 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0367-valid-perfect-square) |

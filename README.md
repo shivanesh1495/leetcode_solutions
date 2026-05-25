@@ -119,6 +119,7 @@ This repo has my solutions for leetcode problems
 | ------- |
 | [0035-search-insert-position](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0704-binary-search) |
 ## Stack
 |  |
@@ -156,4 +157,8 @@ This repo has my solutions for leetcode problems
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0206-reverse-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

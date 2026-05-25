@@ -146,4 +146,8 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0155-min-stack) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->

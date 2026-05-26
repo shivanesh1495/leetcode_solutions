@@ -63,6 +63,7 @@ This repo has my solutions for leetcode problems
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1492-the-kth-factor-of-n) |
 ## String
@@ -74,6 +75,7 @@ This repo has my solutions for leetcode problems
 | [0125-valid-palindrome](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [1768-merge-strings-alternately](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 | [2405-optimal-partition-of-string](https://github.com/shivanesh1495/leetcode_solutions/tree/master/2405-optimal-partition-of-string) |
 ## Dynamic Programming
@@ -138,6 +140,7 @@ This repo has my solutions for leetcode problems
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0682-baseball-game) |
 ## Recursion
 |  |

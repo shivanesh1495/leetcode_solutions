@@ -34,6 +34,7 @@ This repo has my solutions for leetcode problems
 | [1470-shuffle-the-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/shivanesh1495/leetcode_solutions/tree/master/2239-find-closest-number-to-zero) |
 ## Two Pointers
 |  |
@@ -147,6 +148,7 @@ This repo has my solutions for leetcode problems
 | ------- |
 | [0412-fizz-buzz](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 ## Recursion
 |  |
 | ------- |

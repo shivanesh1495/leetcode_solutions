@@ -31,6 +31,7 @@ This repo has my solutions for leetcode problems
 | [0704-binary-search](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [2239-find-closest-number-to-zero](https://github.com/shivanesh1495/leetcode_solutions/tree/master/2239-find-closest-number-to-zero) |

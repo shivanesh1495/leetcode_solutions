@@ -25,6 +25,7 @@ This repo has my solutions for leetcode problems
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0189-rotate-array) |
@@ -145,6 +146,7 @@ This repo has my solutions for leetcode problems
 | ------- |
 | [0035-search-insert-position](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0367-valid-perfect-square) |

@@ -83,6 +83,7 @@ This repo has my solutions for leetcode problems
 | [0344-reverse-string](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0412-fizz-buzz) |
+| [1108-defanging-an-ip-address](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 | [2405-optimal-partition-of-string](https://github.com/shivanesh1495/leetcode_solutions/tree/master/2405-optimal-partition-of-string) |
 ## Dynamic Programming

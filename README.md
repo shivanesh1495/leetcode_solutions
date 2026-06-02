@@ -39,6 +39,7 @@ This repo has my solutions for leetcode problems
 | [0682-baseball-game](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -161,6 +162,7 @@ This repo has my solutions for leetcode problems
 | [0278-first-bad-version](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 ## Stack
 |  |
 | ------- |

@@ -39,6 +39,7 @@ This repo has my solutions for leetcode problems
 | [0682-baseball-game](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0973-k-closest-points-to-origin](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -75,6 +76,7 @@ This repo has my solutions for leetcode problems
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -86,6 +88,7 @@ This repo has my solutions for leetcode problems
 | [0367-valid-perfect-square](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1492-the-kth-factor-of-n) |
 ## String
@@ -206,6 +209,7 @@ This repo has my solutions for leetcode problems
 | [0169-majority-element](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -220,13 +224,19 @@ This repo has my solutions for leetcode problems
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

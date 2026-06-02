@@ -35,6 +35,7 @@ This repo has my solutions for leetcode problems
 | [0228-summary-ranges](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0739-daily-temperatures) |
@@ -73,6 +74,7 @@ This repo has my solutions for leetcode problems
 | [0169-majority-element](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -116,6 +118,7 @@ This repo has my solutions for leetcode problems
 | [0013-roman-to-integer](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [2405-optimal-partition-of-string](https://github.com/shivanesh1495/leetcode_solutions/tree/master/2405-optimal-partition-of-string) |
 ## Greedy
 |  |
@@ -202,10 +205,12 @@ This repo has my solutions for leetcode problems
 | ------- |
 | [0169-majority-element](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -214,8 +219,14 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

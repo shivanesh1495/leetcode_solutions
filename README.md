@@ -250,4 +250,16 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->

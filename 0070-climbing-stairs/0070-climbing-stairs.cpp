@@ -8,10 +8,10 @@ public:
         int b=2;
         int c;
         for(int i=3;i<=n;i++){
-            c = a + b;
-            a = b;
-            b = c;
+           c=a+b;
+           a=b;
+           b=c;
         }
-        return b;
+        return c;
     }
 };

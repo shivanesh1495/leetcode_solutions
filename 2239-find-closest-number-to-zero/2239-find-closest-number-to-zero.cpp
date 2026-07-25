@@ -4,11 +4,11 @@ public:
         int mini=INT_MAX;
         int j;
         for(int i=0;i<nums.size();i++){
-            if(abs(nums[i]-0)<mini){
-                mini=abs(nums[i]-0);
+            if(abs(nums[i])<mini){
+                mini=abs(nums[i]);
                 j=i;
             }
-            else if(abs(nums[i]-0)==mini){
+            else if(abs(nums[i])==mini){
                 if(nums[i]>nums[j]){
                     j=i;
                 }

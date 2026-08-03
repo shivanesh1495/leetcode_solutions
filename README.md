@@ -106,6 +106,7 @@ This repo has my solutions for leetcode problems
 | [0020-valid-parentheses](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0771-jewels-and-stones) |
@@ -134,6 +135,7 @@ This repo has my solutions for leetcode problems
 | [0169-majority-element](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [2405-optimal-partition-of-string](https://github.com/shivanesh1495/leetcode_solutions/tree/master/2405-optimal-partition-of-string) |
 ## Greedy
@@ -235,6 +237,7 @@ This repo has my solutions for leetcode problems
 | ------- |
 | [0169-majority-element](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0383-ransom-note) |
 ## Bit Manipulation
 |  |
 | ------- |

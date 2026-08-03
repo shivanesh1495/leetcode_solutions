@@ -80,6 +80,7 @@ This repo has my solutions for leetcode problems
 | [0169-majority-element](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -105,6 +106,7 @@ This repo has my solutions for leetcode problems
 | [0014-longest-common-prefix](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0392-is-subsequence) |
@@ -134,6 +136,7 @@ This repo has my solutions for leetcode problems
 | [0141-linked-list-cycle](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0771-jewels-and-stones) |

@@ -115,6 +115,7 @@ This repo has my solutions for leetcode problems
 | [0412-fizz-buzz](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 | [2405-optimal-partition-of-string](https://github.com/shivanesh1495/leetcode_solutions/tree/master/2405-optimal-partition-of-string) |
 ## Dynamic Programming
@@ -132,6 +133,7 @@ This repo has my solutions for leetcode problems
 | [0322-coin-change](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -309,4 +311,8 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0322-coin-change) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

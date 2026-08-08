@@ -17,6 +17,7 @@ This repo has my solutions for leetcode problems
 | [0042-trapping-rain-water](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
@@ -121,6 +122,7 @@ This repo has my solutions for leetcode problems
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0070-climbing-stairs) |
@@ -233,6 +235,7 @@ This repo has my solutions for leetcode problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |

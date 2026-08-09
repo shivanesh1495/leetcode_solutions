@@ -116,6 +116,7 @@ This repo has my solutions for leetcode problems
 | [0771-jewels-and-stones](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 | [2405-optimal-partition-of-string](https://github.com/shivanesh1495/leetcode_solutions/tree/master/2405-optimal-partition-of-string) |
 ## Dynamic Programming
@@ -146,6 +147,7 @@ This repo has my solutions for leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0771-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2405-optimal-partition-of-string](https://github.com/shivanesh1495/leetcode_solutions/tree/master/2405-optimal-partition-of-string) |
 ## Greedy
 |  |
@@ -248,6 +250,7 @@ This repo has my solutions for leetcode problems
 | [0169-majority-element](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Bit Manipulation
 |  |
 | ------- |

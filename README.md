@@ -280,6 +280,7 @@ This repo has my solutions for leetcode problems
 | ------- |
 | [0100-same-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -288,6 +289,7 @@ This repo has my solutions for leetcode problems
 | ------- |
 | [0100-same-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -296,6 +298,7 @@ This repo has my solutions for leetcode problems
 | ------- |
 | [0100-same-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -304,6 +307,7 @@ This repo has my solutions for leetcode problems
 | ------- |
 | [0100-same-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0322-coin-change) |
 ## Combinatorics

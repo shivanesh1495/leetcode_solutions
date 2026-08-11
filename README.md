@@ -286,6 +286,7 @@ This repo has my solutions for leetcode problems
 | [0110-balanced-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
@@ -299,6 +300,7 @@ This repo has my solutions for leetcode problems
 | [0110-balanced-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
@@ -313,6 +315,7 @@ This repo has my solutions for leetcode problems
 | [0110-balanced-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
@@ -355,5 +358,14 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->

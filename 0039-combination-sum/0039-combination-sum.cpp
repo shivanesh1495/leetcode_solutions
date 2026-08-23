@@ -19,7 +19,7 @@ private:
         }
         for (int i = start; i < candidates.size(); i++) {
             s.push_back(candidates[i]);
-            backtrack(candidates, a, s, target, i);
+            backtrack(candidates, a, s, target, i);//resuse allowed -> i ,no reuse alowed->i+1
             s.pop_back();
         }
     }

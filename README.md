@@ -310,6 +310,7 @@ This repo has my solutions for leetcode problems
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -336,6 +337,7 @@ This repo has my solutions for leetcode problems
 | [0226-invert-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Combinatorics
 |  |
 | ------- |
@@ -381,4 +383,12 @@ This repo has my solutions for leetcode problems
 | [0046-permutations](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0078-subsets) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->

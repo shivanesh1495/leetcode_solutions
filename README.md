@@ -21,6 +21,7 @@ This repo has my solutions for leetcode problems
 | [0055-jump-game](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -256,6 +257,7 @@ This repo has my solutions for leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0136-single-number) |
 ## Heap (Priority Queue)
 |  |
@@ -370,4 +372,8 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

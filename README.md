@@ -16,6 +16,7 @@ This repo has my solutions for leetcode problems
 | [0035-search-insert-position](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0055-jump-game) |
@@ -375,5 +376,6 @@ This repo has my solutions for leetcode problems
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

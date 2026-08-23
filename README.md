@@ -44,6 +44,7 @@ This repo has my solutions for leetcode problems
 | [0322-coin-change](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -182,6 +183,7 @@ This repo has my solutions for leetcode problems
 | [0048-rotate-image](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [1672-richest-customer-wealth](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
@@ -313,6 +315,7 @@ This repo has my solutions for leetcode problems
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -341,6 +344,7 @@ This repo has my solutions for leetcode problems
 | [0226-invert-binary-tree](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0695-max-area-of-island](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Combinatorics
 |  |
@@ -391,6 +395,7 @@ This repo has my solutions for leetcode problems
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/shivanesh1495/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |

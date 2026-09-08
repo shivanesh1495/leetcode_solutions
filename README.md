@@ -126,6 +126,7 @@ This repo has my solutions for leetcode problems
 | [1189-maximum-number-of-balloons](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/shivanesh1495/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 | [2405-optimal-partition-of-string](https://github.com/shivanesh1495/leetcode_solutions/tree/master/2405-optimal-partition-of-string) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/shivanesh1495/leetcode_solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
